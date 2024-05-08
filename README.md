@@ -29,7 +29,8 @@ Welcome to my GitHub! I specialize in Python, SQL, and Tableau, utilizing data-d
   ---
 
 #### 📈 Projects:
-- **Current Project:** Part of the data team redeveloping a rewards program in South Africa, enhancing customer engagement and loyalty.
+- **Current Business Project:** Part of the data team redeveloping a rewards program in South Africa, enhancing customer engagement and loyalty.
+- **Current Personal Project:** Employing K Means clustering and Tableau for dynamic marketing insights for customer segmentation and personalised rewards marketing.
 - **Funnel Optimization Analysis for Metrocar:** Utilized SQL and Python to optimize conversion funnels, boosting quarterly revenue by an estimated 15%.
 - **Landing Page A/B Testing for Globox:** Conducted A/B testing to enhance conversion rates by 18%.
 - **Market Analysis for NYC Rental Startup:** Analyzed NYC's rental market to identify high-revenue areas, advising on strategic investments.
