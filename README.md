@@ -23,6 +23,7 @@ Welcome to my GitHub! I specialize in Python, SQL, and Tableau, utilizing data-d
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
   ![Metabase](https://img.shields.io/badge/Metabase-509EE3.svg?style=for-the-badge&logo=metabase&logoColor=white)
+  ![Flyway](https://img.shields.io/badge/Flyway-CC0200.svg?style=for-the-badge&logo=flyway&logoColor=white)
   ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 
