@@ -25,6 +25,7 @@ Welcome to my GitHub! I specialize in Python, SQL, and Tableau, utilizing data-d
   ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
   ![Metabase](https://img.shields.io/badge/Metabase-509EE3.svg?style=for-the-badge&logo=metabase&logoColor=white)
 
+  ---
 
 #### 📈 Projects:
 - **Current Project:** Part of the data team redeveloping a rewards program in South Africa, enhancing customer engagement and loyalty.
@@ -32,11 +33,15 @@ Welcome to my GitHub! I specialize in Python, SQL, and Tableau, utilizing data-d
 - **Landing Page A/B Testing for Globox:** Conducted A/B testing to enhance conversion rates by 18%.
 - **Market Analysis for NYC Rental Startup:** Analyzed NYC's rental market to identify high-revenue areas, advising on strategic investments.
 
+  ---
+
 #### 📢 I am actively seeking:
 A full-time position as a Data Analyst to transition away from consultancy and focus on in-depth, strategic data projects.
 
 #### 🤝 Looking to Collaborate:
 I am eager to collaborate on innovative SaaS projects. If you’re working on something where you need a keen eye for data-driven decision making or if you're looking to revolutionize the way businesses interact with data, let's connect and create something impactful!
+
+---
 
 #### 💼 Professional Experience:
 ##### Consultant - IT and SaaS Sector (South Africa and Switzerland)
