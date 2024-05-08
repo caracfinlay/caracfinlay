@@ -10,7 +10,6 @@ Welcome to my GitHub! I specialize in Python, SQL, and Tableau, utilizing data-d
 
 #### 🛠️ Skills and Tools:
 
-- **Data Analysis Tools:**
   ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
   ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -19,8 +18,6 @@ Welcome to my GitHub! I specialize in Python, SQL, and Tableau, utilizing data-d
   ![MySQL](https://img.shields.io/badge/MySQL-00000F.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white)
   ![Excel](https://img.shields.io/badge/Excel-217346.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-- **Development Tools:**
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
   ![Metabase](https://img.shields.io/badge/Metabase-509EE3.svg?style=for-the-badge&logo=metabase&logoColor=white)
@@ -62,7 +59,7 @@ I am eager to collaborate on innovative SaaS projects. If you’re working on so
 ---
 
 #### 🌐 Find me on:
-- **[LinkedIn](#https://www.linkedin.com/in/caracfinlay/)**
-- **[Portfolio](#https://caracfinlay.github.io)**
-- **[Tableau](#https://public.tableau.com/app/profile/cara.finlay/vizzes)**
+- **[LinkedIn](https://www.linkedin.com/in/caracfinlay/)**
+- **[Portfolio](https://caracfinlay.github.io)**
+- **[Tableau](https://public.tableau.com/app/profile/cara.finlay/vizzes)**
 
