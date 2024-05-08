@@ -1,6 +1,6 @@
-# Hi there, I'm Cara Finlay! 👋
+### Hi there, I'm Cara Finlay! 👋
 
-## 🌍 Based in Switzerland | 📊 Data Analyst
+#### 🌍 Based in Switzerland | 📊 Data Analyst
 
 Welcome to my GitHub! I specialize in Python, SQL, and Tableau, utilizing data-driven insights to optimize business outcomes. With a solid foundation in full-stack data science, I am passionate about enhancing organizational efficiency through innovative data solutions.
 
@@ -8,7 +8,7 @@ Welcome to my GitHub! I specialize in Python, SQL, and Tableau, utilizing data-d
 
 ---
 
-### 🛠️ Skills and Tools:
+#### 🛠️ Skills and Tools:
 
 - **Data Analysis Tools:**
   ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
@@ -26,36 +26,37 @@ Welcome to my GitHub! I specialize in Python, SQL, and Tableau, utilizing data-d
   ![Metabase](https://img.shields.io/badge/Metabase-509EE3.svg?style=for-the-badge&logo=metabase&logoColor=white)
 
 
-### 📈 Projects:
+#### 📈 Projects:
 - **Current Project:** Part of the data team redeveloping a rewards program in South Africa, enhancing customer engagement and loyalty.
 - **Funnel Optimization Analysis for Metrocar:** Utilized SQL and Python to optimize conversion funnels, boosting quarterly revenue by an estimated 15%.
 - **Landing Page A/B Testing for Globox:** Conducted A/B testing to enhance conversion rates by 18%.
 - **Market Analysis for NYC Rental Startup:** Analyzed NYC's rental market to identify high-revenue areas, advising on strategic investments.
 
-### 📢 I am actively seeking a full-time position as a Data Analyst to transition away from consultancy and focus on in-depth, strategic data projects.
+#### 📢 I am actively seeking:
+A full-time position as a Data Analyst to transition away from consultancy and focus on in-depth, strategic data projects.
 
-### 🤝 Looking to Collaborate:
+#### 🤝 Looking to Collaborate:
 I am eager to collaborate on innovative SaaS projects. If you’re working on something where you need a keen eye for data-driven decision making or if you're looking to revolutionize the way businesses interact with data, let's connect and create something impactful!
 
-### 💼 Professional Experience:
-#### Consultant - IT and SaaS Sector (South Africa and Switzerland)
+#### 💼 Professional Experience:
+##### Consultant - IT and SaaS Sector (South Africa and Switzerland)
 - **Duration:** January 2015 - Present
 - Increased engagement and conversions through targeted marketing analysis.
 - Optimized workflows and developed critical financial dashboards in Tableau.
 
-#### Full Stack Data Scientist - Deploy (Impact) Software Development
+##### Full Stack Data Scientist - Deploy (Impact) Software Development
 - **Duration:** August 2023 - November 2023 (Women++ in Collaboration with Projuventute)
 - Designed database schemas, authored data specifications, and crafted complex SQL views.
 - Managed version control using Git and enhanced data-driven decision-making processes.
 
-### 🎓 Education:
+#### 🎓 Education:
 **Data Analytics Training Program, Masterschool**
 - **Duration:** June 2022 - January 2024
 - Gained proficiency in data analysis tools and techniques. Performed complex data cleansing and transformation.
 
 ---
 
-### 🌐 Find me on:
+#### 🌐 Find me on:
 - **[LinkedIn](#https://www.linkedin.com/in/caracfinlay/)**
 - **[Portfolio](#https://caracfinlay.github.io)**
 - **[Tableau](#https://public.tableau.com/app/profile/cara.finlay/vizzes)**
