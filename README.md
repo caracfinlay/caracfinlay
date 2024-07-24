@@ -2,7 +2,7 @@
 
 #### 🌍 Based in Switzerland | 📊 Data Analyst
 
-Welcome to my GitHub! I specialize in Python, SQL, and Tableau, utilizing data-driven insights to optimize business outcomes. With a solid foundation in full-stack data science, I am passionate about enhancing organizational efficiency through innovative data solutions.
+Welcome to my GitHub! I specialize in Python, SQL, and Tableau, utilizing data-driven insights to optimize business outcomes. With a solid foundation in data analysis, I am passionate about enhancing organizational efficiency through innovative data solutions.
 
 📬 Reach me at: [caracfinlay@gmail.com](mailto:caracfinlay@gmail.com)
 
